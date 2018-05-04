@@ -1,4 +1,4 @@
-# EM CONSTRUÇÃO!!!!
+# Conhecimento para ajudar quem precisar! :)
 
 Nesta parte do repositório, adicionarei meu processo de estudo conforme for aprendendo novas tecnologias.<br />
 Espero que minhas postagens possam auxiliar novos pessoas a aprenderem cada vez mais! =)
