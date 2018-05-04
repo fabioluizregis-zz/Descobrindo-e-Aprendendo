@@ -1,2 +1,0 @@
-Monto este espaço enquanto estudo RUBY.
-Ao decidir aprender como automatizar testes, uma das linguagens utilizadas junto com Selenium é o Ruby e por este motivo estou decidido a aprender a linguagem para tirar maior proveito na automação.
