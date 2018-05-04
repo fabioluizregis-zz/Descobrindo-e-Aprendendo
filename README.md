@@ -8,6 +8,7 @@ Segue abaixo a trilha de conhecimento que tenho disponível aqui:
   <ol>
   <li><a href="https://github.com/fabioluizregis/Descobrindo-e-Aprendendo/tree/master/Ruby">Ruby</a></li>
       <ul>
-      <li>Um simples Hello World</li>
+      <li>Um simples <a href="https://github.com/fabioluizregis/Descobrindo-e-Aprendendo/blob/master/Ruby/HelloWorld.rb">Hello World</a></li>
       </ul> 
   </ol> 
+
