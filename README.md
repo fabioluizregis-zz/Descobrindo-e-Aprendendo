@@ -1,7 +1,7 @@
 # Conhecimento para ajudar quem precisar! :)
 
 Nesta parte do repositório, adicionarei meu processo de estudo conforme for aprendendo novas tecnologias.<br />
-Espero que minhas postagens possam auxiliar novos pessoas a aprenderem cada vez mais! =)
+Espero que minhas postagens possam auxiliar novas pessoas a aprenderem cada vez mais! =)
 
 Segue abaixo a trilha de conhecimento que tenho disponível aqui:
 
